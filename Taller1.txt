@@ -1,0 +1,3 @@
+1. Investigar git
+2. explicar actividad en clase
+3. investigar que es merge y como se realiza
